@@ -1,36 +1,46 @@
-# Olá, espero que esteja bem! 👋
+# Olá! Bem-vindo(a) ao meu perfil! 👋
 
-## Sobre mim
-Sou um desenvolvedor júnior apaixonado por tecnologia e estudante de Ciência de Dados na Universidade Federal do Mato Grosso do Sul (UFMS). Minha paixão pela programação e o desejo de explorar novas tecnologias me impulsionam a buscar novos desafios para aprimorar minhas skills.
+## Sobre mim  
+Sou Anderson Souza, desenvolvedor full stack e estudante do último ano de Ciência de Dados na UFMS, além de ser um entusiasta de tecnologia com foco em análise de dados, automação e machine learning. Atualmente, atuo como Estagiário de Dados em People Analytics na Stellantis e em Dados de Defesa na Embraer, onde desenvolvo soluções práticas para problemas reais, utilizando Python, SQL, Power BI e outras ferramentas. Minha paixão é transformar dados em insights acionáveis e criar ferramentas que impactam positivamente organizações e pessoas.
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=soares-a&show_icons=true&theme=dracula)  
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soares-a&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=soares-a&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soares-a&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-## Habilidades
+## Habilidades Técnicas  
+- 💻 **Linguagens e Ferramentas de Dados**: Python (Pandas, NumPy), SQL, Power BI, Excel Avançado, Office 365  
+- 🤖 **Machine Learning & Deep Learning**: TensorFlow, PyTorch (em aprendizado)  
+- 🌐 **Desenvolvimento**: Java, JavaScript, TypeScript, HTML, CSS, C, C++  
+- 🥅 **Metodologias**: Scrum, Kanban  
+- 📊 **Outras Competências**: Automação de processos, análise de vulnerabilidades, criação de dashboards  
 
-- 💻 Linguagens de programação: C, C#, C++, Java, Python, JavaScript
-- 🌐 Web Development: HTML, CSS, TypeScript
-- 📊 Banco de dados: SQL, PostgreSQL
-- 📱 Desenvolvimento móvel: Flutter
-- 🎨 Ferramentas de design: Figma
-- ♟️ Xadrez: Instrutor voluntário em um Centro de Referência em Assistência Social (CRAS)
+## Experiências Profissionais  
+- **Embraer | Estagiário de Dados - Defesa (Ago/2024 - Presente)**  
+  Desenvolvimento de automações para segurança digital e análise de vulnerabilidades em ambientes críticos.  
+- **Stellantis South America | Estagiário de Dados - People Analytics (2023 - Presente)**  
+  Criação de dashboards em Power BI, automação de processos de RH e análise de métricas como controle de absenteísmo.  
+- **Fundação Estudar | Instrutor Voluntário (2022 - Jun/2023)**  
+  Condução de aulas de xadrez, desenvolvendo habilidades lógicas e de liderança em jovens.  
+- **LATAM Airlines | Atendente Jr. (2021)**  
+  Suporte ao cliente e melhoria da comunicação interpessoal.  
 
-## Educação e Certificações
+## Educação e Certificações  
+- **Universidade Federal de Mato Grosso do Sul (UFMS)**  
+  🎓 Ciência de Dados (2022 - Conclusão em 2025)  
+- **Certificações**:  
+  - CS50 Harvard (2025)  
+  - English Proficiency CI&T - Intermediate  
+  - 🏆 Talento Universitário 2023  
+  - 🏆 Top 5 Hackaton iFood (2023)  
 
-- 🎓 Universidade Federal do Mato Grosso do Sul (UFMS) - Ciência de Dados (Em andamento)
-- 📚 Certificado CS50 Harvard 2023
+## Projetos e Diferenciais  
+- **Automação em RH**: Ferramentas desenvolvidas na Stellantis para otimizar processos e monitorar KPIs.  
+- **Segurança Digital**: Soluções inovadoras para análise de vulnerabilidades na Embraer.  
+- **Hackaton iFood**: Top 5 com projeto focado em tecnologia e dados (detalhes em breve no portfólio!).  
+- **Diferenciais**: Experiência em ambientes corporativos multidisciplinares, rápida adaptação a novas tecnologias e forte capacidade analítica.  
 
-## Prêmios e Projetos
+## Contato  
+- 📧 **E-mail**: [aassouza94@gmail.com](mailto:aassouza94@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/andysouza94](https://www.linkedin.com/in/andysouza94)  
+- 🌐 **Portfólio**: [GitHub](https://github.com/soares-a) (em construção)  
 
-- 🏆 Top 5 Hackaton Ifood Potência Tech 2023
-- 🏆 Prêmio Capes Talento Universitário 2023
-
-## Contato
-
-- 📧 E-mail: [aassouza94@gmail.com](mailto:seuemail@gmail.com)
-- 💼 LinkedIn: [linkedin.com/andysouza94](https://www.linkedin.com/in/andysouza94)
-- 🌐 Portfólio: [em construção](https://www.seuportfolio.com)
-
-Vamos nos conectar e explorar como podemos criar soluções impactantes juntos!
-
-
+Adoro colaborar em projetos inovadores e explorar como dados podem resolver problemas reais. Vamos conectar e criar algo incrível juntos?
