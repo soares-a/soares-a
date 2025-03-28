@@ -1,7 +1,7 @@
 # Olá! Bem-vindo(a) ao meu perfil! 👋
 
 ## Sobre mim  
-Sou Anderson Souza, desenvolvedor full stack e estudante do último ano de Ciência de Dados na UFMS, além de ser um entusiasta de tecnologia com foco em análise de dados, automação e machine learning. Atualmente, atuo como Estagiário de Dados em People Analytics na Stellantis e em Dados de Defesa na Embraer, onde desenvolvo soluções práticas para problemas reais, utilizando Python, SQL, Power BI e outras ferramentas. Minha paixão é transformar dados em insights acionáveis e criar ferramentas que impactam positivamente organizações e pessoas.
+Sou Anderson Souza, estudante do último semestre de Ciência de Dados na UFMS e desenvolvedor júnior apaixonado por dados e tecnologia. Atualmente, atuo como Estagiário de Dados na Stellantis (People Analytics) e na Embraer (Defesa), onde combino análise de dados, automação e resolução de problemas para criar soluções impactantes. Minha missão é transformar dados em insights e explorar novas tecnologias para enfrentar desafios reais.
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=soares-a&show_icons=true&theme=dracula)  
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soares-a&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
