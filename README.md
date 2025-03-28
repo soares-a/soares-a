@@ -7,11 +7,14 @@ Sou Anderson Souza, desenvolvedor full stack e estudante do último ano de Ciên
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soares-a&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Habilidades Técnicas  
-- 💻 **Linguagens e Ferramentas de Dados**: Python (Pandas, NumPy), SQL, Power BI, Excel Avançado, Office 365  
-- 🤖 **Machine Learning & Deep Learning**: TensorFlow, PyTorch (em aprendizado)  
-- 🌐 **Desenvolvimento**: Java, JavaScript, TypeScript, HTML, CSS, C, C++  
-- 🥅 **Metodologias**: Scrum, Kanban  
-- 📊 **Outras Competências**: Automação de processos, análise de vulnerabilidades, criação de dashboards  
+  - 💻 Linguagens: Python, SQL, Java, JavaScript, TypeScript, C, C++
+  - 📊 Dados: Power BI, Pandas, NumPy, Machine Learning (TensorFlow, PyTorch)
+  - 🌐 Web: HTML, CSS
+  - 📱 Mobile: Flutter
+  - 🛠️ Ferramentas: Excel, Office 365, Figma
+  - ⚙️ Metodologias: Scrum, Kanban
+  - ♟️ Extra: Instrutor voluntário de xadrez (lógica e estratégia)
+
 
 ## Experiências Profissionais  
 - **Embraer | Estagiário de Dados - Defesa (Ago/2024 - Presente)**  
@@ -24,11 +27,11 @@ Sou Anderson Souza, desenvolvedor full stack e estudante do último ano de Ciên
   Suporte ao cliente e melhoria da comunicação interpessoal.  
 
 ## Educação e Certificações  
-- **Universidade Federal de Mato Grosso do Sul (UFMS)**  
-  🎓 Ciência de Dados (2022 - Conclusão em 2025)  
-- **Certificações**:  
-  - CS50 Harvard (2025)  
-  - English Proficiency CI&T - Intermediate  
+  - 🎓 UFMS: Ciência de Dados (2022 - Em andamento)
+  - 📜 CS50 Harvard (2025)
+  - 📜 English Proficiency CI&T: Intermediário
+
+## Conquistas  
   - 🏆 Talento Universitário 2023  
   - 🏆 Top 5 Hackaton iFood (2023)  
 
